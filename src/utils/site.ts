@@ -1,4 +1,4 @@
-export const nama = 'Video Bokep Liadani';
-export const desk = 'Video bokep indo jepang viral ngentot colmek bocil sampai tante.';
+export const nama = 'Bocil Bokep Ngentot';
+export const desk = 'Video Bokep Indo Bocil Ngentot Jilbab Smp Mama Viral Sma Cindo Tante China';
 export const url = 'https://videobokepliadani.pages.dev';
-export const terbit = '2025-06-23T00:00:00Z';
+export const terbit = '2025-06-23T00:01:03Z';
